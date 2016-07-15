@@ -1,0 +1,69 @@
+#container {
+height: 232px !important;
+overflow-y: hidden !important;
+}
+#viewContainer1 {
+height: 210px !important;
+}
+#agendaEventContainer1 {
+height: 204px !important;	
+}
+.dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
+white-space:normal !important;
+}
+.view-container-border, .date-label{
+background-color: white !important;
+}
+.day{
+border-bottom: none !important;
+}
+.day{
+border-bottom: none !important;
+}
+.event{
+border-top: none !important;
+}
+.event-title{
+color: #666666 !important;
+}
+.agenda-more{
+color: #ABABAB !important;
+}
+.subscribe-image{
+	display: none !important;
+}
+underflow-bot, #agenda-underflow-bottom1 {
+	height:100% !important;
+}
+.footer {
+display: none !important;
+}
+/*.underflow-bot, #agenda-underflow-bottom1 {
+	//display: none !important;
+	//color: white !important;
+}
+#agendaScrollContent1{
+	position: absolute !important;
+	height: 100% !important;
+}
+#agendaEventContainer1{
+    position: inherit !important;
+}
+#eventContainer1{
+	height: 190px !important;
+	overflow: auto !important;
+}
+.underflow-top{
+	position: absolute !important;
+	    top: 165px !important;
+	    z-index: 20 !important;
+	    background-color: white !important;
+	    width: 436px !important;
+}*/
+.loading{
+	background-color: white !important;
+	color: #ABABAB !important;
+}
+.view-cap{
+	background-color: #DDDDDD !important;
+}
